@@ -1,5 +1,5 @@
 # SimulatorWaterNetworkLoopMethod
-Simulator algorithm for water networks based on loop method
+Simulator algorithm for water networks based on loop method.
 
 
 Simulation of water networks by using the loop method and Newton-Raphson numerical method  (wat_dem1.m) : the simulation starts with running the Matlab function wat_dem1.m
