@@ -2,7 +2,7 @@
 Simulator algorithm for water networks based on loop method
 
 
-Simulation of water networks by using the loop method and Newton-Raphson numerical method  (wat_dem1.m)
+Simulation of water networks by using the loop method and Newton-Raphson numerical method  (wat_dem1.m) : the simulation starts with running the Matlab function wat_dem1.m
  
 There are given the nodal consumptions, the characteristics of the pipes, head value of reference main head node, inflows/outflows. 
 
